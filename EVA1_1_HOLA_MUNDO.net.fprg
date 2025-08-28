@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_1_HOLA_MUNDO.net"/>
+        <attribute name="authors" value="nikol"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-25 05:57:10 p. m."/>
+        <attribute name="created" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDgtMjU7MDU6MDM6MzAgcC4gbS47MzAyOQ=="/>
+        <attribute name="edited" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDgtMjU7MDU6NTc6MTAgcC4gbS47MTszMTQ0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;HOLA MUNDO&quot;" newline="True"/>
+            <output expression="&quot;FUNDAMENTOS DE PROGAMACI&#211;N&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

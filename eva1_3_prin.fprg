@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="eva1_3_prin"/>
+        <attribute name="authors" value="nikol"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:43:18 p. m."/>
+        <attribute name="created" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDgtMjY7MDU6Mjk6MTQgcC4gbS47MzA0MA=="/>
+        <attribute name="edited" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDgtMjY7MDU6NDM6MTggcC4gbS47MTszMTQ4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE &quot;" newline="False"/>
+            <output expression="&quot;JUDITH NICOLE SANCHEZ PEREZ&quot;" newline="False"/>
+            <output expression="&quot;25550909&quot;" newline="False"/>
+            <output expression="&quot;EDAD&quot;" newline="False"/>
+            <output expression="18" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>

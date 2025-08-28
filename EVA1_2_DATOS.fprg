@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="eva1_pratica2"/>
+        <attribute name="authors" value="nikol"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 09:24:55 p. m."/>
+        <attribute name="created" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDgtMjY7MDU6MDI6MjggcC4gbS47MzAzNg=="/>
+        <attribute name="edited" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDgtMjY7MDk6MjQ6NTUgcC4gbS47MjszMTUz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;RUBEN HERNANDEZ&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

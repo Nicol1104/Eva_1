@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="eva1_5_variable"/>
+        <attribute name="authors" value="nikol"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 05:53:47 p. m."/>
+        <attribute name="created" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDgtMjc7MDU6NDQ6MDYgcC4gbS47MzAzOQ=="/>
+        <attribute name="edited" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDgtMjc7MDU6NTM6NDcgcC4gbS47MTszMTUy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <assign variable="nombre" expression="&quot;Ruben hernandez&quot;"/>
+            <output expression="nombre" newline="True"/>
+            <declare name="edad" type="Integer" array="False" size=""/>
+            <output expression="edad" newline="True"/>
+            <assign variable="edad" expression="43"/>
+        </body>
+    </function>
+</flowgorithm>
