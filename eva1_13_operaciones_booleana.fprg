@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="eva1_13_operaciones_booleana"/>
+        <attribute name="authors" value="nikol"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-05 05:28:21 p. m."/>
+        <attribute name="created" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDktMDU7MDU6MDc6NTEgcC4gbS47MzAzNQ=="/>
+        <attribute name="edited" value="bmlrb2w7TEFQVE9QLTdONzhVUTUxOzIwMjUtMDktMDU7MDU6Mjg6MjEgcC4gbS47MTszMTQz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="cali" type="Real" array="False" size=""/>
+            <output expression="&quot;Introduce la calificaci&#243;n:&quot;" newline="True"/>
+            <input variable="cali"/>
+            <if expression="cali &gt;= 70">
+                <then>
+                    <output expression="&quot;fuga a disney&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;azotes&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
