@@ -24,11 +24,17 @@ public class Eva1_16_numero_mayor {
          System.out.println("El segundo numero es:");
         pos_dos=captu.nextInt();
         if(pos_uno>pos_dos){
-            System.out.println("El numero es mayor es??"+pos_uno);
-        }else{
-             System.out.println("El numero es mayor es??"+pos_dos);
-            
+            System.out.println("El numero es mayor es??");
+            System.out.println(pos_uno);
+        }else{//nos quedamos que pos_dos >pos_1 o pos_dos ==pos_uno
+            //if
+            if(pos_dos>pos_uno){
+             System.out.println("El numero es mayor es??");
+            System.out.println(pos_dos);
+            }else{
+                System.out.println("Los numeros son iguales");
     }
     
+}
 }
 }
